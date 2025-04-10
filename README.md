@@ -19,7 +19,7 @@ Expect to solve:
 - 🌐 Web-based elements  
 - 📍 A location-based puzzle  
 - 📡 LoRa technology questions  
-- 🎭 Hacker culture knowledge  
+- 🎭 Hacker culture trivia  
 - 🔐 A cryptography challenge  
 
 Use the Official Contest Infrastructure to Submit All Flags
