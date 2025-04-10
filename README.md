@@ -59,6 +59,6 @@ Big thanks to the folks making this possible:
 ## ⌨️ Good Luck & Have Fun
 
 - ❄️ Always Be Yourself
-- 🏳️‍🌈 Diversity Makes us Better. 
+- 🏳️‍🌈 Diversity Makes us Better
 
 — **Panda** 🐼
