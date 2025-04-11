@@ -28,7 +28,7 @@ Use the Official Contest Infrastructure to Submit All Flags
 
 ## 🏁 Flag Format
 
-- Flag format: `flag{your_flag_here}`  
+- Flag format: `c2ctf{your_flag_here}`  
 - Case-sensitive. No extra characters. Stick to the format exactly.
 - Some flags will be provided in full. Some flags will be Answers. 
 
