@@ -8,6 +8,7 @@ This repo is your starting point for navigating this year's **Meshtastic Challen
 *Click the Image to Watch the Quick-Start Video Guide (~3Min)*
 
 Video for iOS, Android App is Different but there are similar tutorials.
+
 On Android **Primary Channel** is **0 LongFast**
 
 ---
